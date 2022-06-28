@@ -32,6 +32,7 @@ project on [Semaphore 2.0](https://semaphoreci.com).
 
 ### Tests
 
+
   Tests are separated into two classpaths (in order to run them as separate tasks):
    - [src/test](src/test) holds the unit tests
    - [src/it](src/it) holds the integration tests, in this case repository and rest endpoint tests.
